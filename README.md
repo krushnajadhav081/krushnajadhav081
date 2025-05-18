@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: HI 👋 i`m krushna jadhav
 🔭 I'm a B.Sc. Cyber Security student interested in IT, AI, and Ethical Hacking. I'm learning HTML, CSS, and C programming. I also enjoy editing videos using CapCut and Adobe Premiere Pro. I'm working on tech projects and building my skills every day.<br><br><br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
