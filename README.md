@@ -1,24 +1,95 @@
-# 💫 About Me:
-Hi there! I'm Krushna Jadhav, a passionate learner and aspiring IT professional with interests in Ethical Hacking, Cybersecurity, and Artificial Intelligence. I enjoy exploring new technologies, creating interactive web projects, and continuously improving my technical and communication skills.<br><br>🔭 I’m currently working on a project that combines web design and automation using HTML, CSS, and JavaScript.<br>👯 I’m looking to collaborate on AI and cybersecurity-related open-source projects.<br>🤝 I’m looking for help with learning advanced Python and ethical hacking tools.<br>🌱 I’m currently learning C programming, Linux administration, and web development.<br>💬 Ask me about HTML, CSS, or how to start your journey in tech after 12th.<br>⚡ Fun fact: I love combining creativity and logic — whether it’s designing a website or debugging a program!
+# Welcome to my GitHub! 👋
 
+<div align="center">
+	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krushnajadhav081&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=krushnajadhav081&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnajadhav081&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## About me :mortar_board:
+Hi, I’m **Krushna Jadhav** (krushna081), a passionate **Front-End Developer** and technology enthusiast. From an early stage in my academic journey, I developed a strong interest in computers and web technologies, which motivated me to continuously explore and build real-world projects.  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krushnajadhav081&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+I strongly believe that **learning never stops**, and practical experience is the best teacher. I enjoy transforming ideas into clean, responsive, and user-friendly interfaces while continuously upgrading my technical skill set.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## What I know :computer:
+- **Programming & Scripting**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="33%" align="center">
+						<span><strong>Python</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
+					</td>
+					<td width="33%" align="center">
+						<span><strong>C</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
+					</td>
+					<td width="33%" align="center">
+						<span><strong>JavaScript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krushnajadhav081&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- **Frontend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+					</td>
+					<td align="center">
+						<span><strong>CSS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+					</td>
+					<td align="center">
+						<span><strong>Bootstrap</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
 
----
-[![](https://visitcount.itsvg.in/api?id=krushnajadhav081&icon=0&color=3)](https://visitcount.itsvg.in)
+- **Tools & Platforms**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td align="center">
+						<span><strong>VS Code</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+					</td>
+					<td align="center">
+						<span><strong>Git & GitHub</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I’m doing now :rocket:
+- Working as a **Front-End Developer Intern**
+- Building and improving personal projects
+- Updating my portfolio: **https://krushna081.online**
+
+## What I want to do next :thinking:
+- Build impactful and meaningful web applications  
+- Strengthen my foundation in full-stack development  
+- Keep learning and growing in the tech industry  
+
+## Reach me :mailbox:
+[![GitHub](https://img.shields.io/github/followers/krushna081?label=Follow&style=social)](https://github.com/krushna081)
+[![LinkedIn](https://img.shields.io/badge/-Krushna%20Jadhav-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krushna-jadhav081)
+[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://krushna081.online)
+
+### GitHub Stats :chart_with_upwards_trend:
+![Krushna's stats](https://github-readme-stats.vercel.app/api?username=krushna081&show_icons=true&count_private=true&hide=stars)
+
+Thanks for visiting my profile!
+
+![](https://komarev.com/ghpvc/?username=krushna081&color=blueviolet)
