@@ -84,6 +84,44 @@ I strongly believe that **learning never stops**, and practical experience is th
 [![GitHub](https://img.shields.io/github/followers/krushna081?label=Follow&style=social)](https://github.com/krushna081)
 [![LinkedIn](https://img.shields.io/badge/-Krushna%20Jadhav-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krushna-jadhav081)
 [![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://krushna081.online)
+<div align="left">
+  <!-- GitHub -->
+  <a href="https://github.com/krushna081" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg"
+      width="52" height="40" alt="github logo" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/krushna-jadhav081" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <!-- Portfolio Website -->
+  <a href="https://krushna081.online" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg"
+      width="52" height="40" alt="website logo" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+      width="52" height="40" alt="instagram logo" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+      width="52" height="40" alt="gmail logo" />
+  </a>
+
+  <!-- CodePen (optional) -->
+  <a href="https://codepen.io/YOUR_CODEPEN_USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg"
+      width="52" height="40" alt="codepen logo" />
+  </a>
+</div>
+
 
 ### GitHub Stats :chart_with_upwards_trend:
 ![Krushna's stats](https://github-readme-stats.vercel.app/api?username=krushna081&show_icons=true&count_private=true&hide=stars)
