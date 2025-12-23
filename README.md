@@ -1,8 +1,6 @@
 # Welcome to my GitHub! 👋
 
-<div align="center">
-	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
-</div>
+
 
 ## About me :mortar_board:
 Hi, I’m **Krushna Jadhav** (krushna081), a passionate **Front-End Developer** and technology enthusiast. From an early stage in my academic journey, I developed a strong interest in computers and web technologies, which motivated me to continuously explore and build real-world projects.  
