@@ -81,15 +81,13 @@ I strongly believe that **learning never stops**, and practical experience is th
 - Keep learning and growing in the tech industry  
 
 ## Reach me :mailbox:
-[![GitHub](https://img.shields.io/github/followers/krushna081?label=Follow&style=social)](https://github.com/krushna081)
-[![LinkedIn](https://img.shields.io/badge/-Krushna%20Jadhav-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krushna-jadhav081)
 [![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://krushna081.online)
 <div align="left">
-  <!-- GitHub -->
+  <!-- <!-- GitHub
   <a href="https://github.com/krushna081" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg"
       width="52" height="40" alt="github logo" />
-  </a>
+  </a> -->
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/krushna-jadhav081" target="_blank">
